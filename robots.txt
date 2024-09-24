@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousible.github.io/sitemap.html.gz
+Sitemap: https://ousible.github.io/app/sitemap.html.gz
+Sitemap: https://ousible.github.io/assets/sitemap.html.gz
+Sitemap: https://ousible.github.io/css/sitemap.html.gz
+Sitemap: https://ousible.github.io/data/sitemap.html.gz
+Sitemap: https://ousible.github.io/includes/sitemap.html.gz
+Sitemap: https://ousible.github.io/item/sitemap.html.gz
+Sitemap: https://ousible.github.io/src/sitemap.html.gz
